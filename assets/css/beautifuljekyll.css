@@ -21,6 +21,13 @@ body {
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
+
+  /*customize*/
+  background-image: url('assets/img/defaultlayout.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 p {
   line-height: 1.5;
