@@ -23,7 +23,7 @@ body {
   overflow-wrap: break-word;
 
   /*customize*/
-  background-image: url('assets/img/defaultlayout.jpg');
+  background-image: url(assets/img/defaultlayout.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
