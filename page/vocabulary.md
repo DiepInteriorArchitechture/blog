@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ARCHITECHTURE VOCABULARY
-subtitle: Why you'd want to go on a date with me
+subtitle: Từ vựng tiếng Anh chuyên nghành
 ---
 
 My name is Inigo Montoya. I have the following qualities:

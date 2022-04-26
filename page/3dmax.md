@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3D MAX
-subtitle: Why you'd want to go on a date with me
+subtitle: Autodesk 3D Max là phần mềm thiết kế giúp tạo và diễn hoạt các vật thể 3 chiều.
 ---
 
 My name is Inigo Montoya. I have the following qualities:

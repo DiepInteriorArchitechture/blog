@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PHOTOSHOP
-subtitle: Why you'd want to go on a date with me
+subtitle: Adobe Photoshop CS6 là phần mềm chỉnh sửa ảnh chuyên nghiệp.
 ---
 
 My name is Inigo Montoya. I have the following qualities:

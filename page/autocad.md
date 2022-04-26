@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AUTOCAD
-subtitle: Why you'd want to go on a date with me
+subtitle: AutoCAD là phần mềm ứng dụng CAD để vẽ bản vẽ kỹ thuật.
 ---
 
 My name is Inigo Montoya. I have the following qualities:

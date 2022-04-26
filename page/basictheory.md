@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BASIC THEORY
-subtitle: Why you'd want to go on a date with me
+subtitle: Dùng lưu lại các kiến thức cơ bản.
 ---
 
 My name is Inigo Montoya. I have the following qualities:
