@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-image: url(assets/img/defaultlayout.jpg);
+  background-image: url(https://raw.githubusercontent.com/DiepInteriorArchitechture/blog/master/assets/img/defaultlayout.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
