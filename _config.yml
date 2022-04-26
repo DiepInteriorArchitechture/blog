@@ -14,11 +14,15 @@ author: DiepLe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Product: "page/product"
+  Tools: 
+    - Autocad: "page/autocad"
+    - Sketchup: "page/sketchup"
+    - Photoshop: "page/photoshop"
+    - 3D MAX: "page/3dmax"
+  Basic Theory: "page/basictheory"
+  Vocabulary: "page/vocabulary"
+  About Me: "page/aboutme"
 
 # --- Logo --- #
 
