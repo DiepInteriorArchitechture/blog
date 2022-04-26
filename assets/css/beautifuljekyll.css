@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-image: url(https://raw.githubusercontent.com/DiepInteriorArchitechture/blog/master/assets/img/defaultlayout.jpg);
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6) 0%,rgba(212, 143, 143, 0.6) 100%), url(https://raw.githubusercontent.com/DiepInteriorArchitechture/blog/master/assets/img/defaultlayout.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
