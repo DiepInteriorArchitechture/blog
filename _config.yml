@@ -15,12 +15,12 @@ author: DiepLe
 
 navbar-links:
   Product: "page/product"
-  Tools: 
+  Tools <3: 
     - Autocad: "page/autocad"
     - Sketchup: "page/sketchup"
     - Photoshop: "page/photoshop"
     - 3D MAX: "page/3dmax"
-  Basic Theory: "page/basictheory"
+  Theory: "page/basictheory"
   Vocabulary: "page/vocabulary"
   About Me: "page/aboutme"
 
