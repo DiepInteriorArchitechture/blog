@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6) 0%,rgba(212, 143, 143, 0.6) 100%), url(https://raw.githubusercontent.com/DiepInteriorArchitechture/blog/master/assets/img/defaultlayout.jpg);
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6) 0%,rgb(172 225 183) 100%), url(https://raw.githubusercontent.com/DiepInteriorArchitechture/blog/master/assets/img/defaultlayout.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -123,13 +123,9 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  {% if site.navbar-img %}
-    background-image: url({{ site.navbar-img | relative_url }});
-    background-attachment: fixed;
-  {% endif %}
+  background-image: linear-gradient(#f8f9fa, #67bfb4f0);
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
@@ -374,11 +370,7 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
-  background-color: {{ site.footer-col | default: "#EAEAEA" }};
-  {% if site.footer-img %}
-    background-image: url({{ site.footer-img | relative_url }});
-    background-attachment: fixed;
-  {% endif %}
+  background-color: #FFB6C1;
 }
 
 footer p.text-muted {
