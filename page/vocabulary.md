@@ -4,13 +4,9 @@ title: ARCHITECHTURE VOCABULARY
 subtitle: Từ vựng tiếng Anh chuyên nghành
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Từ vựng 
+Architechture: kiến trúc   
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Câu ví dụ
+He studied architecture with Gropius.  

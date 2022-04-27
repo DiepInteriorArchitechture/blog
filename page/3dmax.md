@@ -4,13 +4,36 @@ title: 3D MAX
 subtitle: Autodesk 3D Max là phần mềm thiết kế giúp tạo và diễn hoạt các vật thể 3 chiều.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Nội dung chính
+[Giới Thiệu](#giới-thiệu)  
+[Phiên bản](#phiên-bản)  
+[Cài đăt](#cài-đặt)  
+[Cách sư dụng](#cách-sử-dụng)  
+    [Câu lệnh](#câu-lệnh)
+[Ghi Chú](#ghi-chú)  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Giới Thiệu
 
-What else do you need?
+Giới thiệu về sản phẩm
 
-### My story
+## Phiên bản
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Các phiên bản
+
+## Cài đặt
+
+Cấu hình yêu cầu   
+Link download  
+các bước cài đặt   
+crack nếu có   
+
+
+## Các sử dụng
+
+các thứ tạo, mở file, save,...   
+
+### Câu lệnh
+
+các câu lệnh cần thiết   
+
+## Ghi Chú

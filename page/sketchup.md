@@ -4,13 +4,36 @@ title: SKETCHUP
 subtitle: SketchUp là một phần mềm mô hình hóa 3D.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Nội dung chính
+[Giới Thiệu](#giới-thiệu)  
+[Phiên bản](#phiên-bản)  
+[Cài đăt](#cài-đặt)  
+[Cách sư dụng](#cách-sử-dụng)  
+    [Câu lệnh](#câu-lệnh)
+[Ghi Chú](#ghi-chú)  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## [Giới Thiệu](www.google.com)
 
-What else do you need?
+Giới thiệu về sản phẩm
 
-### My story
+## [Phiên bản](www.google.com)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Các phiên bản
+
+## [Cài đặt](www.google.com)
+
+Cấu hình yêu cầu   
+Link download  
+các bước cài đặt   
+crack nếu có   
+
+
+## [Các sử dụng](www.google.com)
+
+các thứ tạo, mở file, save,...   
+
+### [Câu lệnh](www.google.com)
+
+các câu lệnh cần thiết   
+
+## [Ghi Chú](www.google.com)

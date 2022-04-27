@@ -4,13 +4,25 @@ title: BASIC THEORY
 subtitle: Dùng lưu lại các kiến thức cơ bản.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Nội dung chính
+[Cấu tạo](#cấu-tạo)  
+[Kết Cấu](#kết-cấu)  
+[Phong Cách](#phong-cách)  
+[Các bài báo hay](#các-bài-báo-hay) 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## [Cấu Tạo](www.google.com)
 
-What else do you need?
+Đang chuẩn bị ...
 
-### My story
+## [Kết Cấu](www.google.com)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Đang chuẩn bị ...
+
+
+## [Phong Cách](www.google.com)
+
+Đang chuẩn bị ...
+
+## [Các bài báo hay](www.google.com)
+
+Đang chuẩn bị ...
