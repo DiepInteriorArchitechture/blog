@@ -4,13 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Chào, 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Rất vui được biết các bạn . Tôi là mina  
+Một cô gái nhỏ nhắn đến từ thành phố nhỏ . Quanh tôi có rất nhiều điều thú vị ( con người , thiêng nhiên , cuộc sống …. )    
+Các bạn có thích đi du lịch không ?  Đi mọi nơi với nhiều cảnh đẹp , nhiều công trình kiến trúc xưa và nay , và tất nhiên là cả món ăn ở nơi đó nữa .  
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
