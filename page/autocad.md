@@ -5,12 +5,12 @@ subtitle: AutoCAD là phần mềm ứng dụng CAD để vẽ bản vẽ kỹ t
 ---
 
 ## Nội dung chính
-[Giới Thiệu](#giới-thiệu)  
-[Phiên bản](#phiên-bản)  
-[Cài đăt](#cài-đặt)  
-[Cách sư dụng](#cách-sử-dụng)  
-    [Câu lệnh](#câu-lệnh)
-[Ghi Chú](#ghi-chú)  
+- [Giới Thiệu](#giới-thiệu)  
+- [Phiên bản](#phiên-bản)  
+- [Cài đăt](#cài-đặt)  
+- [Cách sư dụng](#cách-sử-dụng)  
+    - [Câu lệnh](#câu-lệnh)
+- [Ghi Chú](#ghi-chú)  
 
 ## [Giới Thiệu](www.google.com)
 

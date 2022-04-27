@@ -5,22 +5,22 @@ subtitle: SketchUp là một phần mềm mô hình hóa 3D.
 ---
 
 # Nội dung chính
-[Giới Thiệu](#giới-thiệu)  
-[Phiên bản](#phiên-bản)  
-[Cài đăt](#cài-đặt)  
-[Cách sư dụng](#cách-sử-dụng)  
-    [Câu lệnh](#câu-lệnh)
-[Ghi Chú](#ghi-chú)  
+- [Giới Thiệu](#giới-thiệu)  
+- [Phiên bản](#phiên-bản)  
+- [Cài đăt](#cài-đặt)  
+- [Cách sư dụng](#cách-sử-dụng)  
+    - [Câu lệnh](#câu-lệnh)
+- [Ghi Chú](#ghi-chú)  
 
-## [Giới Thiệu](www.google.com)
+### Giới Thiệu
 
 Giới thiệu về sản phẩm
 
-## [Phiên bản](www.google.com)
+### Phiên bản
 
 Các phiên bản
 
-## [Cài đặt](www.google.com)
+### Cài đặt
 
 Cấu hình yêu cầu   
 Link download  
@@ -28,12 +28,12 @@ các bước cài đặt
 crack nếu có   
 
 
-## [Các sử dụng](www.google.com)
+### Các sử dụng
 
 các thứ tạo, mở file, save,...   
 
-### [Câu lệnh](www.google.com)
+#### Câu lệnh
 
 các câu lệnh cần thiết   
 
-## [Ghi Chú](www.google.com)
+### Ghi Chú

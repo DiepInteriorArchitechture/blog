@@ -12,15 +12,15 @@ subtitle: Autodesk 3D Max là phần mềm thiết kế giúp tạo và diễn h
     [Câu lệnh](#câu-lệnh)
 [Ghi Chú](#ghi-chú)  
 
-## Giới Thiệu
+### Giới Thiệu
 
 Giới thiệu về sản phẩm
 
-## Phiên bản
+### Phiên bản
 
 Các phiên bản
 
-## Cài đặt
+### Cài đặt
 
 Cấu hình yêu cầu   
 Link download  
@@ -28,12 +28,12 @@ các bước cài đặt
 crack nếu có   
 
 
-## Các sử dụng
+### Các sử dụng
 
 các thứ tạo, mở file, save,...   
 
-### Câu lệnh
+#### Câu lệnh
 
 các câu lệnh cần thiết   
 
-## Ghi Chú
+### Ghi Chú
