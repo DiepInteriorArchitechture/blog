@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kết cấu
-subtitle: Lí thuyết cơ bản
+title: Nhà Biệt Thự
+subtitle: Sản phẩm
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [theory]
+tags: [product]
 author: DiepLe
 comments: true
 ---

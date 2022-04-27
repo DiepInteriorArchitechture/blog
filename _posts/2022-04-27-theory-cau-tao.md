@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cấu tạo
-subtitle: Cấu Tạo Công Trình
+subtitle: Lí thuyết cơ bản
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [theory]

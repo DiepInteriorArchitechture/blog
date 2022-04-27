@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Báo chí, Tập chí
-subtitle: Các bài báo hay
+title: Các bài báo hay
+subtitle: Lí thuyết cơ bản
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [theory]
