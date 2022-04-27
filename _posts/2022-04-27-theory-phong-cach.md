@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lí thuyết cơ bản
-subtitle: Phong cách
+title: Phong cách
+subtitle: Phong cách thiết kế
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [theory]

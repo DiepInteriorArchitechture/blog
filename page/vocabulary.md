@@ -5,7 +5,7 @@ subtitle: Từ vựng tiếng Anh chuyên nghành
 ---
 
 
-# Nội dung chính
+## Nội dung chính
 - [Giới Thiệu](#giới-thiệu)  
 - [Phiên bản](#phiên-bản)  
 - [Cài đăt](#cài-đặt)  
