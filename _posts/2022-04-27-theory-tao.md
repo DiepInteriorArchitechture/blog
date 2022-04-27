@@ -18,6 +18,9 @@ You can add notification, warning and error boxes like this:
 **Note:** This is a notification box.
 **Note:** This is a notification box.
 **Note:** This is a notification box.
+his is a notification box.  
+his is a notification box.  
+his is a notification box.  
 
 ### Warning
 
