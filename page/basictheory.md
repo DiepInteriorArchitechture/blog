@@ -23,6 +23,6 @@ subtitle: Dùng lưu lại các kiến thức cơ bản.
 
 Đang chuẩn bị ...
 
-### [Các bài báo hay](https://diepinteriorarchitechture.github.io/blog/2022-04-27-theory-bai-bao-hay.md/)
+### [Các bài báo hay](https://diepinteriorarchitechture.github.io/blog/2022-04-27-theory-bai-bao-hay/)
 
 Đang chuẩn bị ...
