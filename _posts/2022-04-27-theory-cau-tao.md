@@ -5,6 +5,7 @@ subtitle: Cấu tạo
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [theory]
+author: DiepLe
 comments: true
 ---
 

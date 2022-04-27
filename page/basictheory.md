@@ -10,19 +10,19 @@ subtitle: Dùng lưu lại các kiến thức cơ bản.
 [Phong Cách](#phong-cách)  
 [Các bài báo hay](#các-bài-báo-hay) 
 
-## Cấu Tạo
+## [Cấu Tạo]()
 
 Đang chuẩn bị ...
 
-## Kết Cấu
+## [Kết Cấu]()
 
 Đang chuẩn bị ...
 
 
-## Phong Cách
+## [Phong Cách]()
 
 Đang chuẩn bị ...
 
-## Các bài báo hay
+## [Các bài báo hay]()
 
 Đang chuẩn bị ...
