@@ -5,8 +5,17 @@ subtitle: Từ vựng tiếng Anh chuyên nghành
 ---
 
 
-### Từ vựng 
-Architechture: kiến trúc   
+# Nội dung chính
+- [Giới Thiệu](#giới-thiệu)  
+- [Phiên bản](#phiên-bản)  
+- [Cài đăt](#cài-đặt)  
+- [Cách sư dụng](#cách-sử-dụng)  
+- [Ghi Chú](#ghi-chú)  
 
-### Câu ví dụ
-He studied architecture with Gropius.  
+### Từ vựng 
+- Architechture: kiến trúc   
+    - He studied architecture with Gropius.   
+- Architechture: kiến trúc   
+    - He studied architecture with Gropius.   
+- Architechture: kiến trúc   
+    - He studied architecture with Gropius.   

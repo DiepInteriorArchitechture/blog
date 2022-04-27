@@ -5,12 +5,12 @@ subtitle: Autodesk 3D Max là phần mềm thiết kế giúp tạo và diễn h
 ---
 
 # Nội dung chính
-[Giới Thiệu](#giới-thiệu)  
-[Phiên bản](#phiên-bản)  
-[Cài đăt](#cài-đặt)  
-[Cách sư dụng](#cách-sử-dụng)  
-    [Câu lệnh](#câu-lệnh)
-[Ghi Chú](#ghi-chú)  
+- [Giới Thiệu](#giới-thiệu)  
+- [Phiên bản](#phiên-bản)  
+- [Cài đăt](#cài-đặt)  
+- [Cách sư dụng](#cách-sử-dụng)  
+    - [Câu lệnh](#câu-lệnh)
+- [Ghi Chú](#ghi-chú)  
 
 ### Giới Thiệu
 
