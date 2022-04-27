@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lí thuyết cơ bản
+title: Báo chí, Tập chí
 subtitle: Các bài báo hay
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -22,6 +22,10 @@ You can add notification, warning and error boxes like this:
 his is a notification box.  
 his is a notification box.  
 his is a notification box.  
+his is a notification box.  
+
+his is a notification box.  23 23
+his is a notification box.   32 342
 
 ### Warning
 
